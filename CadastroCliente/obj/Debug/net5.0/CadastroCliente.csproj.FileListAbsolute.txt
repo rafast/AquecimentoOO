@@ -1,0 +1,15 @@
+/Users/rafast/Projects/AquecimentoOO/CadastroCliente/bin/Debug/net5.0/CadastroCliente.deps.json
+/Users/rafast/Projects/AquecimentoOO/CadastroCliente/bin/Debug/net5.0/CadastroCliente.runtimeconfig.json
+/Users/rafast/Projects/AquecimentoOO/CadastroCliente/bin/Debug/net5.0/CadastroCliente.runtimeconfig.dev.json
+/Users/rafast/Projects/AquecimentoOO/CadastroCliente/bin/Debug/net5.0/CadastroCliente.dll
+/Users/rafast/Projects/AquecimentoOO/CadastroCliente/bin/Debug/net5.0/ref/CadastroCliente.dll
+/Users/rafast/Projects/AquecimentoOO/CadastroCliente/bin/Debug/net5.0/CadastroCliente.pdb
+/Users/rafast/Projects/AquecimentoOO/CadastroCliente/obj/Debug/net5.0/CadastroCliente.csproj.AssemblyReference.cache
+/Users/rafast/Projects/AquecimentoOO/CadastroCliente/obj/Debug/net5.0/CadastroCliente.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafast/Projects/AquecimentoOO/CadastroCliente/obj/Debug/net5.0/CadastroCliente.AssemblyInfoInputs.cache
+/Users/rafast/Projects/AquecimentoOO/CadastroCliente/obj/Debug/net5.0/CadastroCliente.AssemblyInfo.cs
+/Users/rafast/Projects/AquecimentoOO/CadastroCliente/obj/Debug/net5.0/CadastroCliente.csproj.CoreCompileInputs.cache
+/Users/rafast/Projects/AquecimentoOO/CadastroCliente/obj/Debug/net5.0/CadastroCliente.dll
+/Users/rafast/Projects/AquecimentoOO/CadastroCliente/obj/Debug/net5.0/ref/CadastroCliente.dll
+/Users/rafast/Projects/AquecimentoOO/CadastroCliente/obj/Debug/net5.0/CadastroCliente.pdb
+/Users/rafast/Projects/AquecimentoOO/CadastroCliente/obj/Debug/net5.0/CadastroCliente.genruntimeconfig.cache
