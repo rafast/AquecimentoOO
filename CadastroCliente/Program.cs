@@ -18,7 +18,7 @@ namespace CadastroCliente
                 if (validaNome(inputNome))
                 {
                     entradaValida = true;
-                    cliente.Nome = inputNome;
+                    cliente.Nome = inputNome.Trim();
                 }
                 else
                 {
@@ -114,14 +114,15 @@ namespace CadastroCliente
             Console.WriteLine($"Nome: {cliente.Nome}");
             Console.WriteLine($"CPF: {cliente.CPF}");
             Console.WriteLine($"Data de nascimento: {cliente.Dt_nascimento}");
-            Console.WriteLine($"Renda mensal: R${cliente.Renda_mensal.ToString("0:C2")}");
+            Console.WriteLine($"Renda mensal: R${cliente.Renda_mensal}");
             Console.WriteLine($"Estado Civil: {cliente.Estado_civil}");
             Console.WriteLine($"Número de dependentes: {cliente.Dependentes}");
         }
 
         private static bool validaRenda(out float renda, string inputRendaMensal)
         {
-            return float.TryParse(inputRendaMensal, NumberStyles.Currency, CultureInfo.InvariantCulture, out renda);
+            var culture = CultureInfo.GetCultureInfo("fr-FR");
+            return float.TryParse(inputRendaMensal, NumberStyles.Currency, culture, out renda);
         }
 
         private static bool validaData(out DateTime data, string inputData)
@@ -134,7 +135,7 @@ namespace CadastroCliente
 
         private static bool validaNome(string nome)
         {
-            string padrao = "^[A-Z][a-zA-Z]*$";
+            string padrao = "^([a-zA-Z ]*?)\\s*([a-zA-Z]*)$";
             return Regex.IsMatch(nome, padrao) && (nome.Length > 4);
         }
 
