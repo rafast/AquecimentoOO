@@ -1,0 +1,15 @@
+/Users/rafast/Projects/AquecimentoOO/Vertice/bin/Debug/net5.0/Vertice.deps.json
+/Users/rafast/Projects/AquecimentoOO/Vertice/bin/Debug/net5.0/Vertice.runtimeconfig.json
+/Users/rafast/Projects/AquecimentoOO/Vertice/bin/Debug/net5.0/Vertice.runtimeconfig.dev.json
+/Users/rafast/Projects/AquecimentoOO/Vertice/bin/Debug/net5.0/Vertice.dll
+/Users/rafast/Projects/AquecimentoOO/Vertice/bin/Debug/net5.0/ref/Vertice.dll
+/Users/rafast/Projects/AquecimentoOO/Vertice/bin/Debug/net5.0/Vertice.pdb
+/Users/rafast/Projects/AquecimentoOO/Vertice/obj/Debug/net5.0/Vertice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafast/Projects/AquecimentoOO/Vertice/obj/Debug/net5.0/Vertice.AssemblyInfoInputs.cache
+/Users/rafast/Projects/AquecimentoOO/Vertice/obj/Debug/net5.0/Vertice.AssemblyInfo.cs
+/Users/rafast/Projects/AquecimentoOO/Vertice/obj/Debug/net5.0/Vertice.csproj.CoreCompileInputs.cache
+/Users/rafast/Projects/AquecimentoOO/Vertice/obj/Debug/net5.0/Vertice.dll
+/Users/rafast/Projects/AquecimentoOO/Vertice/obj/Debug/net5.0/ref/Vertice.dll
+/Users/rafast/Projects/AquecimentoOO/Vertice/obj/Debug/net5.0/Vertice.pdb
+/Users/rafast/Projects/AquecimentoOO/Vertice/obj/Debug/net5.0/Vertice.genruntimeconfig.cache
+/Users/rafast/Projects/AquecimentoOO/Vertice/obj/Debug/net5.0/Vertice.csproj.AssemblyReference.cache

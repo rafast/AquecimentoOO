@@ -1,0 +1,14 @@
+/Users/rafast/Projects/AquecimentoOO/Vertice/bin/Debug/net5.0/Questao2.deps.json
+/Users/rafast/Projects/AquecimentoOO/Vertice/bin/Debug/net5.0/Questao2.runtimeconfig.json
+/Users/rafast/Projects/AquecimentoOO/Vertice/bin/Debug/net5.0/Questao2.runtimeconfig.dev.json
+/Users/rafast/Projects/AquecimentoOO/Vertice/bin/Debug/net5.0/Questao2.dll
+/Users/rafast/Projects/AquecimentoOO/Vertice/bin/Debug/net5.0/ref/Questao2.dll
+/Users/rafast/Projects/AquecimentoOO/Vertice/bin/Debug/net5.0/Questao2.pdb
+/Users/rafast/Projects/AquecimentoOO/Vertice/obj/Debug/net5.0/Questao2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafast/Projects/AquecimentoOO/Vertice/obj/Debug/net5.0/Questao2.AssemblyInfoInputs.cache
+/Users/rafast/Projects/AquecimentoOO/Vertice/obj/Debug/net5.0/Questao2.AssemblyInfo.cs
+/Users/rafast/Projects/AquecimentoOO/Vertice/obj/Debug/net5.0/Questao2.csproj.CoreCompileInputs.cache
+/Users/rafast/Projects/AquecimentoOO/Vertice/obj/Debug/net5.0/Questao2.dll
+/Users/rafast/Projects/AquecimentoOO/Vertice/obj/Debug/net5.0/ref/Questao2.dll
+/Users/rafast/Projects/AquecimentoOO/Vertice/obj/Debug/net5.0/Questao2.pdb
+/Users/rafast/Projects/AquecimentoOO/Vertice/obj/Debug/net5.0/Questao2.genruntimeconfig.cache

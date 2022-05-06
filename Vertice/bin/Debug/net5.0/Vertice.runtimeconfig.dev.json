@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/rafast/.dotnet/store/|arch|/|tfm|",
+      "/Users/rafast/.nuget/packages"
+    ]
+  }
+}
